@@ -1,0 +1,54 @@
+ <!-- start testimonial -->
+    <div class="testimonial">
+        <div class="overlay"></div>
+        <div class="container">
+            <div id="testimonial" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <!-- This is a Comment -->
+                    <div class="carousel-item carousel-one active">
+                        <div class="carousel-caption d-none d-block">
+                            <img src="./img/alaa.png" alt="alaa">
+                            <h3>Alaa Ezzat</h3>
+                            <span>Maneger</span>
+
+                            <p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>
+                        </div>
+                    </div>
+
+                    <!-- This is a Comment -->
+                    <div class="carousel-item carousel-two">
+                        <div class="carousel-caption d-none d-block">
+                            <img src="./img/elsisiy.jpg" alt="sisy">
+                            <h3>Mo Elsisy</h3>
+                            <span>CEO</span>
+                            <p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. ...</p>
+                        </div>
+                    </div>
+                    <!-- This is a Comment -->
+                    <div class="carousel-item  carousel-three">
+                        <div class="carousel-caption d-none d-block">
+                            <img src="./img/dana.png" alt="dana">
+                            <h3>Mo Ramadan</h3>
+                            <span>CEO</span>
+                            <p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. ...</p>
+                        </div>
+                    </div>
+                    <!-- This is a Comment -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#testimonial" data-slide-to="0" class="active"></li>
+                        <li data-target="#testimonial" data-slide-to="1"></li>
+                        <li data-target="#testimonial" data-slide-to="2"></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev alizarin-background " href="#testimonial" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next alizarin-background " href="#testimonial" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <!-- end testimonial -->
